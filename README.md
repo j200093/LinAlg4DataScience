@@ -4,7 +4,7 @@ Code that accompanies the book "Linear Algebra for Data Science"
 Check out the table of contents ("_TOC.pdf" file)
 
 Link to the book on amazon:
-([https://amzn.to/3ElmEjA])
+[Practical Linear Algebra for Data Science: From Core Concepts to Applications Using Python](https://amzn.to/3ElmEjA)
 
 E-version viewable for O'Reilly members:
 https://www.oreilly.com/library/view/practical-linear-algebra/9781098120603/
